@@ -1,5 +1,5 @@
-```json
-[
+{
+"urls": [ 
   {
     "name": "速播",
     "url": "https://subocaiji.com/api.php/provide/vod/at/json",
@@ -85,4 +85,4 @@
     "use_proxy": true
   }
 ]
-```
+}

@@ -1,5 +1,4 @@
-{ 
-"sites":[
+[
     {
         "name": "厂长视频",
         "api": "https://ghp.ci/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/changZhang20240614.js",
@@ -582,4 +581,3 @@
         "isLock": true
     }
 ]
-}
